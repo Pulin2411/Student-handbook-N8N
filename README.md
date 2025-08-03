@@ -18,6 +18,7 @@
 ●	Maintain HR compliance and policy clarity
 
 🔎 Key Tools & Stack:
+
 ●	n8n for low-code automation and orchestration
 
 ●	Pinecone for real-time vector search
