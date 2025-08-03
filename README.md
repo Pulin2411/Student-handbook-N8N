@@ -1,4 +1,6 @@
 <img width="624" height="338" alt="image" src="https://github.com/user-attachments/assets/0bd3d270-0925-4742-adfd-1e1cc4525777" />
+<img width="624" height="349" alt="image" src="https://github.com/user-attachments/assets/a69d103f-c6c2-4063-ab6f-f868803f28e0" />
+
 
 
 🚀 Project Highlight: Student Assistant Employment Chatbot (Built in Under 1 Hour)
