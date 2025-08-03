@@ -6,7 +6,9 @@
 
 🚀 **Project Highlight: **Student Assistant Employment Chatbot (Built in Under 1 Hour)
  Last week, I developed a fully functional chatbot powered by OpenAI, Pinecone, and n8n—and deployed it through Telegram—in just 60 minutes.
+ 
 🛠️ Solo project, done as part of an internal proof-of-concept to streamline HR communication for student employment policies.
+
 📘 The chatbot is trained strictly on the CSULB Student Assistant Employment Handbook (Feb 2024) and built with strong guardrails to:
 ●	Answer only what’s in the official document
 
