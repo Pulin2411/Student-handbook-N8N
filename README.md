@@ -26,5 +26,6 @@
 ●	n8n Web App for complete flow control
 
 ⚠️ Fun Debug: I initially missed setting the correct embedding dimension (512) for OpenAI — quick fix, lesson learned!
+
 ✅ Use case: Designed for a test environment, this chatbot is modular and easily extendable across other departments or policy documents.
 
